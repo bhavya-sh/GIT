@@ -1,0 +1,19 @@
+  git status
+  505  git add testing.py 
+  506  git status
+  507  git rm --cached testing.py 
+  508  git status
+  509  git add
+  510  git add testing.py 
+  511  git status
+  512  git commit 
+  513  git status
+  514  rm testing.py 
+  515  ls
+  516  git status
+  517  git restore testing.py
+  518  git status
+  519  ls
+  520  git status
+
+  
