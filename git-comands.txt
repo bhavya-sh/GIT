@@ -39,12 +39,12 @@
   544  git remote add origin https://github.com/bhavya-sh/GIT.git
   545  git remote -v
   546  git remote -v
-  547  git remote set-url origin https://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@github.com/https://github.com/bhavya-sh/GIT.git
+  547  git remote set-url origin https://<git-token>@github.com/https://github.com/bhavya-sh/GIT.git
   548  git remote -v
   549  git push origin master
   550  git push origin main
   551  git remote -v
-  552  git remote set-url origin https://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@github.com/bhavya-sh/GIT.git
+  552  git remote set-url origin https://<git-token>@github.com/bhavya-sh/GIT.git
   553  git remote -v
   554  git push origin master
   555  git remote help
@@ -68,7 +68,7 @@
   573  git remote -v
   574  git remote add origin https://github.com/bhavya-sh/GIT.git
   575  git remote -v
-  576  git remote set-url origin https://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@github.com/bhavya-sh/GIT.git
+  576  git remote set-url origin https://<git-token>@github.com/bhavya-sh/GIT.git
   577  git remote -v
   578  git status
   579  git add GIT.pages 
