@@ -76,3 +76,5 @@
   581  git commit GIT.pages -m "committing GIT.pages"
   582  git status
   583  git push origin master
+
+Adding some superficial changes 
